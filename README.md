@@ -1,5 +1,5 @@
-[!Note] 
+>[!Note] 
 A powerful website for developers
 
-[!Tip]
+>[!Tip]
 Blogging
