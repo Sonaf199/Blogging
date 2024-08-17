@@ -1,5 +1,2 @@
->[!Note] 
-A powerful website for developers
-
 >[!Tip]
-Blogging
+>Its for Learning Purpose
